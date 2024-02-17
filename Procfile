@@ -1,0 +1,1 @@
+start:uvicorn main:app --log-level warning
